@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Sunjith",
+      "lastName": "PS",
+      "email": "sunjithpsubash28@gmail.com",
+      "mobile": "+91-9538175232",
+      "salary": "10000"
+    },
+    {
+      "id": 2,
+      "firstName": "Maneesha",
+      "lastName": "Maniyab",
+      "email": "maneeshamaniyan07@gmail.com",
+      "mobile": "9986639620",
+      "salary": "10000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Maneesha",
+      "email": "manu@gmail.com",
+      "password": "123456",
+      "mobile": 698599949,
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
