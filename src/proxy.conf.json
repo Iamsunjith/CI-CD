@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "https://1ylg2tj7u4.execute-api.ap-south-1.amazonaws.com",
+    "secure": false
+  }
+}
